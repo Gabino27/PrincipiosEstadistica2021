@@ -9,5 +9,5 @@ Semana 1
 + 04.02.2021: Creación de la cuenta github y su primer repositorio, instalación de las plataformas.
 
 Semana 2
-+ 10.02.2021
++ 10.02.2021: analisis de conceptos de estadística.
 + 11.03.2021
