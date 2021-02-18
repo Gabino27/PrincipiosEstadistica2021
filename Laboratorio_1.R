@@ -1,6 +1,6 @@
 # Laboratorio 1 Gastos totales
 # Gabino Gonzalez Garcia
-# 1922575
+# Matricula.1922575
 # 11.02.2021
 
 300 + 240 + 1527 + 400 + 1500 + 1833
