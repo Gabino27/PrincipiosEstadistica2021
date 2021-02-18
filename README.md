@@ -1,3 +1,7 @@
+Gabino Gonzalez García
+1922575
+Ing Forestal
+
 # PrincipiosEstadistica2021
 Notas y bitácora de trabajo de la UA Principios de estadística 2021
 
@@ -13,5 +17,5 @@ Semana 2
 + 11.03.2021
 
 semana 3
-+ 17.02.2021: laboratorio 1
++ 17.02.2021: trabajar en el laboratorio 1
 + 18.02.2021: 
