@@ -11,3 +11,7 @@ Semana 1
 Semana 2
 + 10.02.2021: analisis de conceptos de estadística.
 + 11.03.2021
+
+semana 3
++ 17.02.2021: laboratorio 1
++ 18.02.2021: 
