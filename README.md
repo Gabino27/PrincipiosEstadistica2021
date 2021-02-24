@@ -14,12 +14,12 @@ Semana 1
 
 Semana 2
 + 10.02.2021: analisis de conceptos de estadística.
-+ 11.03.2021
++ 11.03.2021: primer contacto con Rstudio.
 
 semana 3
-+ 17.02.2021: trabajar en el laboratorio 1
-+ 18.02.2021: asignación de la tarea 
++ 17.02.2021: trabajar en el laboratorio 1.
++ 18.02.2021: asignación de la tarea. 
 
 semana 4
-+ 24.02.2021: resolucion de tarea
++ 24.02.2021: resolucion de tarea.
 + 25.02.2021: 
