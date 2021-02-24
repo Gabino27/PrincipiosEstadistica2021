@@ -18,4 +18,8 @@ Semana 2
 
 semana 3
 + 17.02.2021: trabajar en el laboratorio 1
-+ 18.02.2021: 
++ 18.02.2021: asignación de la tarea 
+
+semana 4
++ 24.02.2021: resolucion de tarea
++ 25.02.2021: 
