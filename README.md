@@ -22,4 +22,4 @@ semana 3
 
 semana 4
 + 24.02.2021: resolucion de tarea.
-+ 25.02.2021: 
++ 25.02.2021: estadisticas descriptivas.
