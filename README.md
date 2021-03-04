@@ -23,3 +23,7 @@ semana 3
 semana 4
 + 24.02.2021: resolucion de tarea.
 + 25.02.2021: estadisticas descriptivas.
+
+semana 5
++ 3.03.2021: Resolución laboratorio 3 parte 1.
++ 4.03.2021: Resolución laboratorio 3 partes 2 y 3.
