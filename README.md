@@ -27,3 +27,7 @@ semana 4
 semana 5
 + 3.03.2021: Resolución laboratorio 3 parte 1.
 + 4.03.2021: Resolución laboratorio 3 partes 2 y 3.
+
+semana 6
++ 10.03.2021: Analisis de diferentes representaciones gráficas.
++ 11.03.2021: Inicio de laboratorio 4.
