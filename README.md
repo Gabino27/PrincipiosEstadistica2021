@@ -31,3 +31,7 @@ semana 5
 semana 6
 + 10.03.2021: Analisis de diferentes representaciones gráficas.
 + 11.03.2021: Inicio de laboratorio 4.
+
+semana 7
++ 17.03.2021: correlación entre dos variables.
++ 18.03.2021: Ejersicios de correlación.
