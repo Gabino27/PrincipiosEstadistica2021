@@ -39,3 +39,11 @@ semana 7
 semana 8
 + 24.03.2021: correlación entre dos variables(continuación).
 + 25.03.2021:
+
+semana 9
++ 14.04.2021: Analisis de regresión.
++ 15.04.2021: Clase asincrona.
+
+semana 10
++ 21.04.2021: Continuación de analisis de regresión.
++ 22.04.2021:
