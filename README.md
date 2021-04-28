@@ -38,7 +38,7 @@ semana 7
 
 semana 8
 + 24.03.2021: correlación entre dos variables(continuación).
-+ 25.03.2021:
++ 25.03.2021: Evaluación de control.
 
 semana 9
 + 14.04.2021: Analisis de regresión.
@@ -46,4 +46,8 @@ semana 9
 
 semana 10
 + 21.04.2021: Continuación de analisis de regresión.
-+ 22.04.2021:
++ 22.04.2021: Asignación de actividades de crrelación y regresión.
+
+semana 11
++ 28.04.2021: Normalidad y homogeneidad de varianzas.
++ 29.04.2021:
