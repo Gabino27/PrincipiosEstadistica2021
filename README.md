@@ -51,3 +51,12 @@ semana 10
 semana 11
 + 28.04.2021: Normalidad y homogeneidad de varianzas.
 + 29.04.2021: Pruebas de T.
+
+semana 12
++ 12.05.2021: prueba de T de una muestra. 
++ 13.05.2021: Prueba de T de dos muestras independientes.
+
+semana 13
++ 19.05.2021: Pruebas de T dependientes.
++ 20.05.2021: Fin del curso.
+
